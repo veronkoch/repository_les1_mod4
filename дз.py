@@ -1,6 +1,6 @@
-a = input(str())
+words = input(str())
 
-def Palindrom(a):
-    return a == a[::-1]
+def palindrom(words):
+    return words == words[::-1]
 
-print(Palindrom(a))
+print(palindrom(words))
