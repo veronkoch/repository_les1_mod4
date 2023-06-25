@@ -1,0 +1,36 @@
+h1 {
+    background: green;
+}
+
+.Parag-0 {
+    background: blue;
+    font-size: 24pt;
+    color: brown;
+
+}
+
+.Parag-1 {
+    border: 11px solid green;
+    border-radius: 7px;
+    font-size: 17pt;
+    font-family: Courier new;
+    margin-bottom: 31px;
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+
+}
+
+.Parag-2 {
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: Courier new;
+}
+
+.Parag-3{
+    font-size: 24 pt;
+    font-style: italic;
+    text-align: center;
+    text-shadow: green 2px 3px 4px;
+}
